@@ -22,4 +22,8 @@ body {
 
 ul {
   list-style-type: none;
+  padding: 0;
+}
+li {
+  padding-bottom: 10px;
 }
